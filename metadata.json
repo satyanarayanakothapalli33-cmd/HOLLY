@@ -1,0 +1,6 @@
+{
+  "name": "HOLLY Church",
+  "description": "Faith in God. Love for People. Service to Humanity. A Christian church community dedicated to worship, prayer, and monthly humanitarian service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
